@@ -1,1 +1,1 @@
-# Food-Recognition
+# FoodRec
