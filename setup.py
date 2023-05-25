@@ -7,9 +7,9 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'segmentation'
-DESCRIPTION = 'Image segmentation using Deep Learning.'
-URL = 'https://github.com/DeepFoodRec/FoodRec'
+NAME = 'FoodRec'
+DESCRIPTION = 'Food Recognition using Deep Learning.'
+URL = 'https://github.com/DeepFoodRec/Food-Recognition'
 EMAIL = 'mazhar.h@nu.edu.pk'
 AUTHOR = 'Mazhar Hussain'
 REQUIRES_PYTHON = '>=3.0.0'
