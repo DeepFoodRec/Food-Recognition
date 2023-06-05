@@ -8,4 +8,5 @@
 
 ```pip install git+https://github.com/DeepFoodRec/Food-Recognition.git```
 
-💡** Get started with Google Colab**
+
+💡 ** Get started with Google Colab**
