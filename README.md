@@ -6,4 +6,4 @@ The FoodRec liberary contains three deep learning model
 
 🛠 **Installation**
 
-`pip install git+https://github.com/DeepFoodRec/Food-Recognition.git`
+```pip install git+https://github.com/DeepFoodRec/Food-Recognition.git```
