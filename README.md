@@ -7,6 +7,7 @@
 🛠 **Installation**
 
 ```
+
 pip install git+https://github.com/DeepFoodRec/Food-Recognition.git
 
 ```
