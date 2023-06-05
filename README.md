@@ -9,4 +9,4 @@
 ```pip install git+https://github.com/DeepFoodRec/Food-Recognition.git```
 
 
-💡  [**Get started with Google Colab**] (https://colab.research.google.com/github/DeepFoodRec/Food-Recognition/blob/main/Notebook/DeepFoodRec.ipynb)
+💡  **[Get started with Google Colab]**] (https://colab.research.google.com/github/DeepFoodRec/Food-Recognition/blob/main/Notebook/DeepFoodRec.ipynb)
