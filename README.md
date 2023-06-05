@@ -6,7 +6,10 @@
 
 🛠 **Installation**
 
-```pip install git+https://github.com/DeepFoodRec/Food-Recognition.git```
+```
+pip install git+https://github.com/DeepFoodRec/Food-Recognition.git
+
+```
 
 
 💡  **[Get started with Notebook](https://github.com/DeepFoodRec/Food-Recognition/blob/main/Notebook/DeepFoodRec.ipynb)** 
